@@ -1,0 +1,8 @@
+torch
+transformers
+flask
+numpy
+sounddevice
+whisper
+requests
+wave
