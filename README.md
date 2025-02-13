@@ -3,6 +3,8 @@
 ## Overview
 This project implements a speech-controlled UR10 robot using OpenAI's Whisper model for speech recognition. The robot listens to spoken commands and assembles vehicles accordingly.
 
+![image](https://github.com/user-attachments/assets/52e186d1-a221-4aac-a293-f130d5640bb6)
+
 ## Features
 - **Speech Recognition**: Utilizes OpenAI's Whisper model for accurate speech-to-text conversion.
 - **Robot Control**: Controls the UR10 robot using the URBasic library.
